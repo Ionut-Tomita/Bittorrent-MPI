@@ -1,0 +1,56 @@
+Tracker, added peer 2 to the swarm of file file1
+Tracker, added peer 1 to the swarm of file file3
+Tracker, added peer 3 to the swarm of file file1
+Peer 1 received swarm size 1
+Peer 2 received swarm size 1
+Tracker, added peer 3 to the swarm of file file2
+Tracker, added peer 3 to the swarm of file file3
+Peer 3 received swarm size 1
+Peer 2 received swarm size 1
+Peer 1 received swarm size 1
+Peer 3 received swarm size 1
+Peer 1 received swarm size 1
+Peer 2 received swarm size 1
+Peer 1 received swarm size 1
+Peer 2 received swarm size 1
+Peer 3 received swarm size 1
+Peer 2 received swarm size 1
+Peer 1 received swarm size 1
+Peer 3 received swarm size 1
+Peer 2 received swarm size 1
+Peer 1 received swarm size 1
+Peer 3 received swarm size 1
+Peer 1 received swarm size 1
+Peer 2 received swarm size 1
+Peer 2 received swarm size 1
+Peer 3 received swarm size 1
+Peer 1 received swarm size 1
+Peer 2 received swarm size 1
+Peer 3 received swarm size 1
+peer 1 Swarm for file file3
+2 
+Peer 2 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+peer 2 Swarm for file file1
+1 
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+Peer 3 received swarm size 1
+peer 3 Swarm for file file3
+2 
+peer 3 Swarm for file file2
+1 
+peer 3 Swarm for file file1
+1 
